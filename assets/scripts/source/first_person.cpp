@@ -1,5 +1,7 @@
 #include "lava_system.hpp"
 
+#include <iostream>
+
 class FirstPersonEntity : public Entity {
 private:
     bool firstClick = true;
@@ -52,8 +54,8 @@ public:
         movement.y = yMomentum;
 
         transformComponent.position += movement * dt;
-        if (transformComponent.position.y < -2.0f) {
-            transformComponent.position.y = -2.0f;
+        if (transformComponent.position.y < 1.0f) {
+            transformComponent.position.y = 1.0f;
             yMomentum = 0.0f;
         }
 
