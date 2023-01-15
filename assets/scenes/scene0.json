@@ -69,10 +69,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh8_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_diff_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_diff_4k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_arm_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_arm_4k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh8_vert"
@@ -110,10 +110,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh9_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_diff_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_diff_4k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_arm_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_arm_4k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh9_vert"
@@ -151,10 +151,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh10_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_diff_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_diff_4k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_arm_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_arm_4k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh10_vert"
@@ -192,10 +192,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh11_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_diff_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_diff_4k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_arm_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_arm_4k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh11_vert"
@@ -233,10 +233,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh12_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_diff_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_diff_4k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-4/textures/treasure_chest_arm_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-4/textures/treasure_chest_arm_4k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh12_vert"
@@ -296,10 +296,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh3_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown/textures/sofa_03_diff_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown/textures/sofa_03_diff_1k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown/textures/sofa_03_rough_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown/textures/sofa_03_rough_1k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh3_vert"
@@ -337,10 +337,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh4_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown/textures/sofa_03_diff_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown/textures/sofa_03_diff_1k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown/textures/sofa_03_rough_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown/textures/sofa_03_rough_1k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh4_vert"
@@ -400,10 +400,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh2_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-5/textures/wooden_table_02_diff_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-5/textures/wooden_table_02_diff_1k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-5/textures/wooden_table_02_arm_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-5/textures/wooden_table_02_arm_1k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh2_vert"
@@ -463,10 +463,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh1_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-7/textures/ornate_mirror_01_diff_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-7/textures/ornate_mirror_01_diff_1k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-7/textures/ornate_mirror_01_arm_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-7/textures/ornate_mirror_01_arm_1k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh1_vert"
@@ -526,10 +526,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh0_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-8/textures/potted_plant_04_diff_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-8/textures/potted_plant_04_diff_1k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-8/textures/potted_plant_04_arm_1k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-8/textures/potted_plant_04_arm_1k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh0_vert"
@@ -622,10 +622,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh5_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-3/textures/modern_arm_chair_01_legs_diff_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-3/textures/modern_arm_chair_01_legs_diff_4k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-3/textures/modern_arm_chair_01_legs_arm_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-3/textures/modern_arm_chair_01_legs_arm_4k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh5_vert"
@@ -663,10 +663,10 @@
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh6_ind",
                         "textures": {
                             "0": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-3/textures/modern_arm_chair_01_pillow_diff_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-3/textures/modern_arm_chair_01_pillow_diff_4k.jpg"
                             },
                             "1": {
-                                "filename": "/Users/samuliak/Downloads/Unknown-3/textures/modern_arm_chair_01_pillow_arm_4k.jpg"
+                                "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/models/Unknown-3/textures/modern_arm_chair_01_pillow_arm_4k.jpg"
                             }
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh6_vert"
