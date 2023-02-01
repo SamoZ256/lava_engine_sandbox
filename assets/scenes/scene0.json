@@ -1,7 +1,7 @@
 {
     "entities": {
         "0": {
-            "Camera component": {
+            "Camera": {
                 "active": true,
                 "direction": {
                     "x": 0.5088392496109009,
@@ -14,10 +14,10 @@
                     "z": -10.942862510681152
                 }
             },
-            "Script component": {
+            "Script": {
                 "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scripts/source/first_person.cpp"
             },
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": -3.3116509914398193,
                     "y": 5.043105125427246,
@@ -37,7 +37,7 @@
             "name": "camera"
         },
         "1": {
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": 0.0,
                     "y": 0.028906673192977905,
@@ -56,7 +56,7 @@
             },
             "childs": {
                 "0": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -65,7 +65,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh8_ind",
                         "textures": {
                             "0": {
@@ -77,7 +77,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh8_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
@@ -97,7 +97,7 @@
                     "name": "entity"
                 },
                 "1": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -106,7 +106,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh9_ind",
                         "textures": {
                             "0": {
@@ -118,7 +118,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh9_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.40056490898132324,
@@ -138,7 +138,7 @@
                     "name": "entity"
                 },
                 "2": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -147,7 +147,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh10_ind",
                         "textures": {
                             "0": {
@@ -159,7 +159,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh10_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": -0.45207446813583374,
                             "y": 0.28787338733673096,
@@ -179,7 +179,7 @@
                     "name": "entity"
                 },
                 "3": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -188,7 +188,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh11_ind",
                         "textures": {
                             "0": {
@@ -200,7 +200,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh11_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.45112568140029907,
                             "y": 0.2803589701652527,
@@ -220,7 +220,7 @@
                     "name": "entity"
                 },
                 "4": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -229,7 +229,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh12_ind",
                         "textures": {
                             "0": {
@@ -241,7 +241,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh12_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.40723371505737305,
@@ -264,7 +264,7 @@
             "name": "treasure_chest_4k"
         },
         "11": {
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": 0.0,
                     "y": 0.0,
@@ -283,7 +283,7 @@
             },
             "childs": {
                 "0": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -292,7 +292,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh3_ind",
                         "textures": {
                             "0": {
@@ -304,7 +304,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh3_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
@@ -324,7 +324,7 @@
                     "name": "entity"
                 },
                 "1": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -333,7 +333,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh4_ind",
                         "textures": {
                             "0": {
@@ -345,7 +345,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh4_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
@@ -368,7 +368,7 @@
             "name": "sofa_03_1k"
         },
         "14": {
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": 0.17689625918865204,
                     "y": 0.0,
@@ -387,7 +387,7 @@
             },
             "childs": {
                 "0": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -396,7 +396,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh2_ind",
                         "textures": {
                             "0": {
@@ -408,7 +408,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh2_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
@@ -431,7 +431,7 @@
             "name": "wooden_table_02_1k"
         },
         "16": {
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": -1.310093641281128,
                     "y": 1.1502008438110352,
@@ -450,7 +450,7 @@
             },
             "childs": {
                 "0": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -459,7 +459,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh1_ind",
                         "textures": {
                             "0": {
@@ -471,7 +471,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh1_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
@@ -494,7 +494,7 @@
             "name": "ornate_mirror_01_1k"
         },
         "18": {
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": 0.0,
                     "y": 0.8090288639068604,
@@ -513,7 +513,7 @@
             },
             "childs": {
                 "0": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -522,7 +522,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh0_ind",
                         "textures": {
                             "0": {
@@ -534,7 +534,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh0_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
@@ -557,7 +557,7 @@
             "name": "potted_plant_04_1k"
         },
         "7": {
-            "Material component": {
+            "Material": {
                 "albedo": {
                     "b": 1.0,
                     "g": 1.0,
@@ -566,11 +566,19 @@
                 "metallic": 1.0,
                 "roughness": 1.0
             },
-            "Mesh component": {
+            "Mesh": {
                 "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh7_ind",
+                "textures": {
+                    "0": {
+                        "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/textures/rust/albedo.png"
+                    },
+                    "1": {
+                        "filename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/textures/rust/metallic.png"
+                    }
+                },
                 "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh7_vert"
             },
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": 0.0,
                     "y": 0.0,
@@ -590,7 +598,7 @@
             "name": "plane"
         },
         "8": {
-            "Transform component": {
+            "Transform": {
                 "position": {
                     "x": 1.934295892715454,
                     "y": 0.0,
@@ -609,7 +617,7 @@
             },
             "childs": {
                 "0": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -618,7 +626,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh5_ind",
                         "textures": {
                             "0": {
@@ -630,7 +638,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh5_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
@@ -650,7 +658,7 @@
                     "name": "entity"
                 },
                 "1": {
-                    "Material component": {
+                    "Material": {
                         "albedo": {
                             "b": 1.0,
                             "g": 1.0,
@@ -659,7 +667,7 @@
                         "metallic": 1.0,
                         "roughness": 1.0
                     },
-                    "Mesh component": {
+                    "Mesh": {
                         "indDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh6_ind",
                         "textures": {
                             "0": {
@@ -671,7 +679,7 @@
                         },
                         "vertDataFilename": "/Users/samuliak/Desktop/lava_engine_sandbox/assets/scenes/meshData/mesh6_vert"
                     },
-                    "Transform component": {
+                    "Transform": {
                         "position": {
                             "x": 0.0,
                             "y": 0.0,
